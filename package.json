@@ -1,0 +1,26 @@
+{
+  "name": "react-native-nitro-gzip",
+  "version": "0.0.1",
+  "description": "react-native-nitro-gzip",
+  "private": true,
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ldoppea/react-native-nitro-gzip.git"
+  },
+  "author": "Yannick Chiron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ldoppea/react-native-nitro-gzip/issues"
+  },
+  "homepage": "https://github.com/Ldoppea/react-native-nitro-gzip#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "workspaces": [
+    "react-native-nitro-gzip",
+    "example"
+  ]
+}
